@@ -1,0 +1,62 @@
+{
+    "name": "My Example Source",
+    "subtitle": "All my apps in one place.",
+    "description": "Welcome to my source! Here you'll find all of my apps.",
+    "iconURL": "https://raw.githubusercontent.com/TV-Engine/Doodledrepo.github.io/main/IMG_0258.PNG",
+    "headerURL": "",
+    "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "tintColor": "#03fca1",
+    "featuredApps": [
+        
+    ],
+    "apps": [
+        {
+            "name": "My Example App",
+            "bundleIdentifier": "com.litritt.ignited",
+            "developerName": "litritt",
+            "subtitle": "a fork of delta.",
+            "localizedDescription": "This is an awesome app only available on AltStore.",
+            "iconURL": "https://www.gitbook.com/cdn-cgi/image/width=36,dpr=2,height=36,fit=contain,format=auto/https%3A%2F%2F2011447232-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FjJ8hHkIFPvsicVH5hvBk%252Ficon%252F141qHGzlfSHHQiMOryQx%252Ficon-180.png%3Falt%3Dmedia%26token%3Db2ad8b89-67ce-4025-8cfb-a90a077589af",
+            "tintColor": "#a14600",
+            "screenshots": [
+                
+            ],
+            "versions": [
+                {
+                    "version": "1.8.7",
+                    "date": "",
+                    "size": 68300000,
+                    "downloadURL": "https://cdn.ignitedemulator.com/versions/1.8.7/Ignited.ipa",
+                    "localizedDescription": "New features and bug fixes.",
+                    "minOSVersion": "14.0"
+                }
+               
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.siri"
+                ],
+                "privacy": {
+                    "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
+                    "NSCameraUsageDescription": "App uses camera to take photos.",
+                    "NSMicrophoneUsageDescription": "App uses microphone to record video."
+                }
+            }
+        }
+        
+    ],
+    "news": [
+        {
+            "title": "New Feature Announcement",
+            "identifier": "new_feature",
+            "caption": "Introducing a new feature in AltStore!",
+            "date": "2023-03-15",
+            "tintColor": "#5CA399",
+            "imageURL": "https://example.com/new_feature_image.png",
+            "notify": true,
+            "url": "https://example.com/new_feature_details"
+        }
+        
+    ]
+}
