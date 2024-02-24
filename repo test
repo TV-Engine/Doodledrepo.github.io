@@ -1,0 +1,138 @@
+{
+    "name": "My Example Source",
+    "subtitle": "All my apps in one place.",
+    "description": "Welcome to my source! Here you'll find all of my apps.",
+    "iconURL": "https://raw.githubusercontent.com/TV-Engine/Doodledrepo.github.io/main/IMG_0258.PNG",
+    "headerURL": "",
+    "website": "",
+    "tintColor": "#03fca1",
+    "featuredApps": [
+        "com.example.myapp",
+        "com.example.anotherapp"
+    ],
+    "apps": [
+        {
+            "name": "My Example App",
+            "bundleIdentifier": "com.litritt.ignited",
+            "developerName": "litritt",
+            "subtitle": "a fork of delta.",
+            "localizedDescription": "This is an awesome app only available on AltStore.",
+            "iconURL": "https://www.gitbook.com/cdn-cgi/image/width=36,dpr=2,height=36,fit=contain,format=auto/https%3A%2F%2F2011447232-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FjJ8hHkIFPvsicVH5hvBk%252Ficon%252F141qHGzlfSHHQiMOryQx%252Ficon-180.png%3Falt%3Dmedia%26token%3Db2ad8b89-67ce-4025-8cfb-a90a077589af",
+            "tintColor": "#a14600",
+            "screenshots": [
+                
+            ],
+            "versions": [
+                {
+                    "version": "1.8.7",
+                    "date": "",
+                    "size": 68300000,
+                    "downloadURL": "https://cdn.ignitedemulator.com/versions/1.8.7/Ignited.ipa",
+                    "localizedDescription": "New features and bug fixes.",
+                    "minOSVersion": "12.0"
+                },
+               
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.siri"
+                ],
+                "privacy": {
+                    "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
+                    "NSCameraUsageDescription": "App uses camera to take photos.",
+                    "NSMicrophoneUsageDescription": "App uses microphone to record video."
+                }
+            }
+        },
+        {
+            "name": "Another Example App",
+            "bundleIdentifier": "com.example.anotherapp",
+            "developerName": "Example Developer",
+            "subtitle": "Another awesome app.",
+            "localizedDescription": "This is another awesome app only available on AltStore.",
+            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/SharkApp.png",
+            "tintColor": "#3660A2",
+            "screenshots": {
+                "iphone": [
+                    "https://example.com/anotherapp_portrait_1.png",
+                    "https://example.com/anotherapp_portrait_2.png",
+                    {
+                        "imageURL": "https://example.com/anotherapp_landscape.png",
+                        "width": 2556,
+                        "height": 1179
+                    }
+                ],
+                "ipad": [
+                    {
+                        "imageURL": "https://example.com/anotherapp_ipad_portrait.png",
+                        "width": 1668,
+                        "height": 2388
+                    },
+                    {
+                        "imageURL": "https://example.com/anotherapp_ipad_landscape.png",
+                        "width": 2388,
+                        "height": 1668
+                    }
+                ]
+            },
+            "versions": [
+                {
+                    "version": "1.2",
+                    "date": "2022-06-21T09:00:00-08:00",
+                    "downloadURL": "https://example.com/anotherapp_v1.2.ipa",
+                    "localizedDescription": "Bug fixes and performance improvements.",
+                    "size": 81514,
+                    "minOSVersion": "13.0"
+                },
+                {
+                    "version": "1.1",
+                    "date": "2022-04-15T10:00:00-08:00",
+                    "downloadURL": "https://example.com/anotherapp_v1.1.ipa",
+                    "localizedDescription": "New features!",
+                    "size": 81364,
+                    "minOSVersion": "13.0",
+                    "maxOSVersion": "16.3"
+                },
+                {
+                    "version": "1.0",
+                    "date": "2022-02-02T07:00:00-08:00",
+                    "downloadURL": "https://example.com/anotherapp_v1.0.ipa",
+                    "localizedDescription": "Initial release.",
+                    "size": 79821
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "com.apple.developer.healthkit",
+                    "com.apple.developer.game-center"
+                ],
+                "privacy": {
+                    "NSLocalNetworkUsageDescription": "App scans the local network for nearby computers."
+                }
+            }
+        }
+    ],
+    "news": [
+        {
+            "title": "New Feature Announcement",
+            "identifier": "new_feature",
+            "caption": "Introducing a new feature in AltStore!",
+            "date": "2023-03-15",
+            "tintColor": "#5CA399",
+            "imageURL": "https://example.com/new_feature_image.png",
+            "notify": true,
+            "url": "https://example.com/new_feature_details"
+        },
+        {
+            "title": "App Update Available",
+            "identifier": "app_update",
+            "caption": "An update is available for My Example App.",
+            "date": "2023-03-10T10:00:00-07:00",
+            "tintColor": "#3660A2",
+            "imageURL": "https://example.com/app_update_image.png",
+            "notify": false,
+            "appID": "com.example.myapp"
+        }
+    ]
+}
