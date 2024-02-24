@@ -1,7 +1,7 @@
 {
-    "name": "My Example Source",
-    "subtitle": "All my apps in one place.",
-    "description": "Welcome to my source! Here you'll find all of my apps.",
+    "name": "doodled Source",
+    "subtitle": "All my must have apps in one place.",
+    "description": "Welcome to my source! Here you'll find all sorts of good apps.",
     "iconURL": "https://raw.githubusercontent.com/TV-Engine/Doodledrepo.github.io/main/IMG_0258.PNG",
     "headerURL": "https://raw.githubusercontent.com/TV-Engine/Doodledrepo.github.io/main/IMG_0258.PNG",
     "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
@@ -11,11 +11,11 @@
     ],
     "apps": [
         {
-            "name": "My Example App",
+            "name": "ignited",
             "bundleIdentifier": "com.litritt.ignited",
             "developerName": "litritt",
             "subtitle": "a fork of delta.",
-            "localizedDescription": "This is an awesome app only available on AltStore.",
+            "localizedDescription": "This is a fork of delta with amazing visuals and has quality of life stuff available on AltStore.",
             "iconURL": "https://www.gitbook.com/cdn-cgi/image/width=36,dpr=2,height=36,fit=contain,format=auto/https%3A%2F%2F2011447232-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FjJ8hHkIFPvsicVH5hvBk%252Ficon%252F141qHGzlfSHHQiMOryQx%252Ficon-180.png%3Falt%3Dmedia%26token%3Db2ad8b89-67ce-4025-8cfb-a90a077589af",
             "tintColor": "#a14600",
             "screenshots": [
