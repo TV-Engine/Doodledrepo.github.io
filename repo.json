@@ -15,7 +15,82 @@
             "bundleIdentifier": "com.litritt.ignited",
             "developerName": "litritt",
             "subtitle": "a fork of delta.",
-            "localizedDescription": "This is a fork of delta with amazing visuals and has quality of life stuff available on AltStore.",
+            "localizedDescription": "Ignited is a multi-core emulator front-end for iOS devices. It provides a beautiful user interface and rich features that other emulators lack. An experience that feels right at home on your premium devices. Join the Discord to follow along with development, suggest new features, and chat. Become a Patron to support development and unlock benefits, such as being able to install Ignited straight from a link without having to sideload it.
+
+Supported Systems
+
+Nintendo Entertainment System (NES)
+Super Nintendo Entertainment System (SNES)
+Nintendo 64 (N64)
+Game Boy (GB)
+Game Boy Color (GBC)
+Game Boy Advance (GBA)
+Nintendo DS (DS)
+Sega Genesis / Mega Drive (GEN)
+Sega Master System (SMS)
+Sega Game Gear (GG)
+Features
+
+Accurate, full speed emulation thanks to mature underlying emulator cores.
+NES: Nestopia
+SNES: Snes9x
+N64: mupen64plus
+GB/GBC: Gambatte
+GBA: visualboyadvance-m
+DS: melonDS
+GEN/SMS/GG: Genesis Plus GX
+Beautiful, native UI.
+Browse and play your favorite games with a UI designed from the ground up for iOS.
+Automatically displays appropriate box art for imported games.
+Change a game’s artwork to anything you want, or select from the built-in game artwork database.
+Live Artwork displays your most recent auto save state as the artwork.
+Controller Support
+Supports PS4, PS5, Xbox One S, Xbox Series X, and MFi game controllers.
+Supports bluetooth (and wired) keyboards, as well as the Apple Smart Keyboard.
+Completely customize button mappings on a per-system, per-controller basis.
+Map buttons to special “Quick Save”, “Quick Load”, "Quick Settings", and “Fast Forward” actions.
+Custom Controller Skins
+Beautiful built-in controller skins for all systems.
+Import controller skins made by others, or even make your own to share with the world!
+Save States
+Save and load save states for any game from the pause menu.
+Lock save states to prevent them from being accidentally overwritten.
+Automatically makes backup save states to ensure you never lose your progress.
+Support for “Quick Saves,” save states that can be quickly saved/loaded with a single button press (requires external controller).
+Fast Forwarding
+Speed through slower parts of games by running the game much faster than normal.
+Easily enable or disable from the pause menu, or optionally with a mapped button on an external controller.
+Change speeds by long pressing the pause menu button, or using the quick settings menu.
+Ignited Sync
+Sync your games, game saves, save states, cheats, controller skins, and controller mappings between devices.
+View version histories of everything you sync and optionally restore them to earlier versions.
+Supports both Google Drive and Dropbox.
+Hold Button
+Choose buttons for Ignited to hold down on your behalf, freeing up your thumbs to press other buttons instead.
+Perfect for games that typically require one button be held down constantly (ex: run button in Mario games, or the A button in Mario Kart).
+Toggle held inputs off/on after settings them by tapping the pause menu button, or long press to change the held inputs.
+3D/Haptic Touch
+Use 3D or Haptic Touch to “peek” at games, save states, and cheat codes.
+App icon shortcuts allow quick access to your most recently played games, or optionally customize the shortcuts to always include certain games.
+Cheat Codes
+NES
+Game Genie
+SNES:
+Game Genie
+Pro Action Replay
+N64
+GameShark
+GBC
+Game Genie
+GameShark
+GBA
+Action Replay
+Code Breaker
+GameShark
+DS
+Action Replay
+Gyroscope support (WarioWare: Twisted! only)
+Microphone support (DS only)",
             "iconURL": "https://www.gitbook.com/cdn-cgi/image/width=36,dpr=2,height=36,fit=contain,format=auto/https%3A%2F%2F2011447232-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FjJ8hHkIFPvsicVH5hvBk%252Ficon%252F141qHGzlfSHHQiMOryQx%252Ficon-180.png%3Falt%3Dmedia%26token%3Db2ad8b89-67ce-4025-8cfb-a90a077589af",
             "tintColor": "#a14600",
             "screenshots": [
