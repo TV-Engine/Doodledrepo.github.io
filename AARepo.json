@@ -1,0 +1,51 @@
+{
+  "name": "Apple Arcade",
+  "subtitle": "A source for all Apple arcade games ",
+  "description": "All the Apple Arcade games in one repo",
+  "iconURL": "https://toolbox.marketingtools.apple.com/_next/static/media/arcade.4b760e25.svg",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#da4459",
+  "featuredApps": [
+    "com.ubisoft.raymanair"
+  ],
+  "headerURL": "https://photos5.appleinsider.com/gallery/product_pages/133-hero.jpg",
+  "apps": [
+    {
+      "name": "Rayman Mini",
+      "bundleIdentifier": "com.ubisoft.raymanair",
+      "marketplaceID": "",
+      "developerName": "Ubisoft",
+      "subtitle": "New epic journey for your hero",
+      "localizedDescription": "",
+      "iconURL": "https://pdacdn.com/app/5ede25ca75c28/m_rayman-mini.png",
+      "tintColor": "#74e4a4",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://mobdisc.com/fdl/27453945-6fe7-4905-8842-e3d1d4ff6324/Rayman-Mini-v1-4-0.ipa",
+          "size": 416900000,
+          "version": "1.11",
+          "buildVersion": null,
+          "date": "2025-05-17T11:20:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "The game may use your calendar",
+          "NSCameraUsageDescription": "The game would like to use your picture during gameplay capture ",
+          "NSMainNibFile": "MainWindow_iOS",
+          "NSMainNibFile~ipad": "MainWindow_iOS",
+          "NSPhotoLibraryAddUsageDescription": "Screenshots purposes",
+          "NSPhotoLibraryUsageDescription": "screenshots of the game"
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
