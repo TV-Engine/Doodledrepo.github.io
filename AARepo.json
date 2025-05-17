@@ -2,7 +2,7 @@
   "name": "Apple Arcade",
   "subtitle": "A source for all Apple arcade games ",
   "description": "All the Apple Arcade games in one repo",
-  "iconURL": "https://toolbox.marketingtools.apple.com/_next/static/media/arcade.4b760e25.svg",
+  "iconURL": "https://images.icon-icons.com/3053/PNG/512/apple_arcade_macos_bigsur_icon_190385.png",
   "website": "",
   "patreonURL": "",
   "tintColor": "#da4459",
@@ -17,19 +17,19 @@
       "marketplaceID": "",
       "developerName": "Ubisoft",
       "subtitle": "New epic journey for your hero",
-      "localizedDescription": "",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://pdacdn.com/app/5ede25ca75c28/m_rayman-mini.png",
       "tintColor": "#74e4a4",
       "category": "games",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://mobdisc.com/fdl/27453945-6fe7-4905-8842-e3d1d4ff6324/Rayman-Mini-v1-4-0.ipa",
-          "size": 416900000,
           "version": "1.11",
-          "buildVersion": null,
           "date": "2025-05-17T11:20:00+03:00",
           "localizedDescription": null,
+          "downloadURL": "https://mobdisc.com/fdl/27453945-6fe7-4905-8842-e3d1d4ff6324/Rayman-Mini-v1-4-0.ipa",
+          "size": 416900000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
