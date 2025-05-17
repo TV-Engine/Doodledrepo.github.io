@@ -12,6 +12,39 @@
   "headerURL": "https://photos5.appleinsider.com/gallery/product_pages/133-hero.jpg",
   "apps": [
     {
+      "name": "Skate City",
+      "bundleIdentifier": "com.snowman.skatecity",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ve5_HiuNFuAB72X6wXGcUUTO4DL4LVylKg&s",
+      "tintColor": "#0484fc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://dl.iosvizor.net/skate-city/skate-city-v6.1.ipa",
+          "size": 659200000,
+          "version": "5.8",
+          "buildVersion": null,
+          "date": "2025-05-17T16:57:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Camera is not in use",
+          "NSMicrophoneUsageDescription": "Microphone is not in use",
+          "NSPhotoLibraryAddUsageDescription": "Access camera roll only to save gameplay videos.",
+          "NSPhotoLibraryUsageDescription": "Save a video to photos"
+        }
+      },
+      "patreon": {}
+    },
+    {
       "name": "Crossy Road Castle",
       "bundleIdentifier": "com.hipsterwhale.crossycastle",
       "marketplaceID": "",
@@ -24,12 +57,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://dl.iosvizor.net/crossy-road-castle/crossy-road-castle-v11.0.ipa",
-          "size": 342000000,
           "version": "11.0",
-          "buildVersion": null,
           "date": "2025-05-17T14:41:00+03:00",
           "localizedDescription": null,
+          "downloadURL": "https://dl.iosvizor.net/crossy-road-castle/crossy-road-castle-v11.0.ipa",
+          "size": 342000000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
