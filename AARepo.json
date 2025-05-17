@@ -12,6 +12,38 @@
   "headerURL": "https://photos5.appleinsider.com/gallery/product_pages/133-hero.jpg",
   "apps": [
     {
+      "name": "Crossy Road Castle",
+      "bundleIdentifier": "com.hipsterwhale.crossycastle",
+      "marketplaceID": "",
+      "developerName": "Hipster Whale",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "Prove you're no chicken in this final feather-ruffling showdown! Can you make it out of the Eagle's Fiendish Fortress in one piece?\nBring your friends and see how far you can get in this endless spinning tower of arcade fun!\nKeep climbing as high as you can. Every run is different.\nHighlights:\nPlay Together: Designed for co-operative arcade platforming chaos. You can also play solo, but everything's more fun with friends, right?\nConnect Easily: Connect all players on a single device with game controllers, or connect together across multiple devices (or any mix that suits you).\nCollect Everything: Unlock Crossy Chicken and friends. Dress up in silly hats.\nFind New Stuff: With procedurally generated levels and variations, your tower run will be different every time!\nDefeat an Oversized Angry Eagle: Why is it so angry?!\n",
+      "iconURL": "https://iosvizor.com/wp-content/uploads/2023/08/Crossy-Road-Castle.png",
+      "tintColor": "#5cd4f4",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://dl.iosvizor.net/crossy-road-castle/crossy-road-castle-v11.0.ipa",
+          "size": 342000000,
+          "version": "11.0",
+          "buildVersion": null,
+          "date": "2025-05-17T14:41:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Record yourself with ReplayKit",
+          "NSMicrophoneUsageDescription": "Record yourself with ReplayKit",
+          "NSPhotoLibraryAddUsageDescription": "Save screenshots to camera roll."
+        }
+      },
+      "patreon": {}
+    },
+    {
       "name": "Rayman Mini",
       "bundleIdentifier": "com.ubisoft.raymanair",
       "marketplaceID": "",
