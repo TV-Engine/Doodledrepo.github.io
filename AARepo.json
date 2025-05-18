@@ -12,6 +12,34 @@
   "headerURL": "https://photos5.appleinsider.com/gallery/product_pages/133-hero.jpg",
   "apps": [
     {
+      "name": "Lego Builders Journey",
+      "bundleIdentifier": "com.lego.games.arthouse",
+      "marketplaceID": "Lego",
+      "developerName": "LEGO",
+      "subtitle": "Create your own path.",
+      "localizedDescription": "Step through levels brick by brick with puzzles that sometimes ask us to follow the instructions... and sometimes to be creative and break the rules.\nBuilder's Journey is a poetic puzzle that takes place in a LEGO® brick world, brought to life with the most accurately rendered LEGO® elements yet to feature on screens. Be taken through a breathtaking world filled with brick-by-brick effects, accompanied by a beautiful soundtrack.\nThroughout the narrative, there will be ups and downs, challenges and celebrations. Take the time to experiment, and most importantly, to play.\nFiguring out who we are and what we become is the Builder's Journey.",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/06/LEGO-Builders-Journe.jpg",
+      "tintColor": "#4c9cb4",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://file.ipaomtk.com/ipa/LEGO-Builders-Journey.ipa",
+          "size": 1100000000,
+          "version": "2.0.2",
+          "buildVersion": "",
+          "date": "2025-05-18T20:01:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": "13.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
       "name": "Skate City",
       "bundleIdentifier": "com.snowman.skatecity",
       "marketplaceID": "",
@@ -24,12 +52,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://dl.iosvizor.net/skate-city/skate-city-v6.1.ipa",
-          "size": 659200000,
           "version": "5.8",
-          "buildVersion": null,
           "date": "2025-05-17T16:57:00+03:00",
           "localizedDescription": null,
+          "downloadURL": "https://dl.iosvizor.net/skate-city/skate-city-v6.1.ipa",
+          "size": 659200000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
