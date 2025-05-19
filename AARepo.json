@@ -2,7 +2,7 @@
   "name": "Apple Arcade",
   "subtitle": "A source for all Apple arcade games ",
   "description": "All the Apple Arcade games in one repo",
-  "iconURL": "https://images.icon-icons.com/3053/PNG/512/apple_arcade_macos_bigsur_icon_190385.png",
+  "iconURL": "https://raw.githubusercontent.com/TV-Engine/Doodledrepo.github.io/refs/heads/main/IMG_0799.png",
   "website": "",
   "patreonURL": "",
   "tintColor": "#da4459",
@@ -24,12 +24,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://file.ipaomtk.com/ipa/LEGO-Builders-Journey.ipa",
-          "size": 1100000000,
           "version": "2.0.2",
-          "buildVersion": "",
           "date": "2025-05-18T20:01:00+03:00",
           "localizedDescription": null,
+          "downloadURL": "https://file.ipaomtk.com/ipa/LEGO-Builders-Journey.ipa",
+          "size": 1100000000,
+          "buildVersion": "",
           "minOSVersion": "13.0"
         }
       ],
